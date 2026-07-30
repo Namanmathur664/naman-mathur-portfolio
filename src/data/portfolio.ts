@@ -335,6 +335,15 @@ export const certifications = [
     color: 'from-teal-500 to-cyan-600',
     icon: 'Award',
   },
+  {
+   id: 9,
+  name: 'Data Analytics Essentials',
+  issuer: 'Cisco Networking Academy',
+  color: 'from-blue-500 to-cyan-500', // gradient
+  icon: 'Award', // lucide-react icon
+ 
+  },
+  
 ];
 
 export const achievements = [
