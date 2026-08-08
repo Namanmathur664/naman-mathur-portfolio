@@ -343,6 +343,15 @@ export const certifications = [
   icon: 'Award', // lucide-react icon
  
   },
+  {
+   id: 10,
+  name: 'Career Essentials in Data Analysis by
+  Microsoft and LinkedIn',
+  issuer: 'Microsoft',
+  color: 'from-blue-500 to-cyan-500', // gradient
+  icon: 'Award', // lucide-react icon
+ 
+  },
   
 ];
 
