@@ -345,8 +345,7 @@ export const certifications = [
   },
   {
    id: 10,
-  name: 'Career Essentials in Data Analysis by
-  Microsoft ',
+  name: 'Career Essentials in Data Analysis',
   issuer: 'Microsoft',
   color: 'from-blue-500 to-cyan-500', // gradient
   icon: 'Award', // lucide-react icon
